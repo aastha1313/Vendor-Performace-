@@ -10,19 +10,8 @@ We built an end-to-end data analytics pipeline:
 
 ✅ Visualized KPIs and insights using a Power BI dashboard
 
-📁 Directory Structure
-bash
-Copy
-Edit
-├── data/                     # Raw CSV files
-├── logs/                     # Logging directory for ingestion
-├── scripts/                  # Python scripts for data ingestion and EDA
-├── dashboard.pbix            # Power BI dashboard file
-├── EDA_analysis.ipynb        # Jupyter Notebook for analysis
-├── README.md                 # Project README
-├── inventory.db              # SQLite database
 ⚙️ Technologies Used
-Python (pandas, numpy, scipy, matplotlib, seaborn)
+Python (pandas, numpy, matplotlib, seaborn)
 
 SQLite (for lightweight database storage)
 
